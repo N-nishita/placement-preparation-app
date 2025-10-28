@@ -44,6 +44,23 @@ To democratize quality placement preparation and help students achieve their car
 
 ---
 
+## 💻 Project Access & Demo
+
+You can explore EduSphere locally using the following steps.
+
+**GitHub:** https://github.com/N-nishita
+
+**Test Login Credentials:**
+- Email: `admin@edusphere.com`
+- Password: `admin123`
+
+### Quick Local Run (Summary)
+1. Clone the repo  
+    ```bash
+   git clone https://github.com/N-nishita/placement-preparation-app.git
+   cd placement-preparation-app
+    ```
+  
 ## ✨ Key Features
 
 ### 👤 **User Experience**
