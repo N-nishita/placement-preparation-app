@@ -120,8 +120,8 @@ Get EduSphere running locally in 5 minutes:
 
 ```bash
 # Clone the repository
-git clone https://github.com/spriyanshucoder/edusphere.git
-cd edusphere
+git clone https://github.com/N-nishita/placement-preparation-app.git
+cd placement-preparation-app
 
 # Install dependencies and start development
 npm run setup && npm run dev
@@ -191,8 +191,8 @@ SENTRY_DSN=your_sentry_dsn
 
 1. **Clone and Setup**
    ```bash
-   git clone https://github.com/spriyanshucoder/edusphere.git
-   cd edusphere
+   git clone https://github.com/N-nishita/placement-preparation-app.git
+   cd placement-preparation-app
    ```
 
 2. **Install Dependencies**
@@ -590,34 +590,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ❌ Liability  
 ❌ Warranty  
 
----
-
-## 📞 Support & Contact
-
-### 🆘 Getting Help
-
-
-- **🐛 Bug Reports**: [GitHub Issues](https://github.com/spriyanshucoder/edusphere/issues)
-- **💡 Feature Requests**: [GitHub Discussions](https://github.com/spriyanshucoder/edusphere/discussions)
-
-### 📧 Direct Contact
-
-- **Project Maintainer**: [s.priyanshu.coder@gmail.com](mailto:s.priyanshu.coder@gmail.com)
-
-### 🌐 Social Media
-
-- **LinkedIn**: 
-- **Twitter**: 
-- **YouTube**: 
-
----
-
-<div align="center">
-
-### 🌟 Star this repository if you find it helpful!
-
-**Made with ❤️ by the EduSphere Team**
-
-[⬆ Back to Top](#-edusphere-interactive-learning-platform)
-
-</div>
